@@ -10,7 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//        run tes
       /**  String info = WeatherUtil.GetWeatherData("天津");
         System.out.println("1.预测结果：" + info);                    // 全部天气数据，含预测
         WeatherInfo weatherinfo = WeatherUtil.GetWeather(info);
